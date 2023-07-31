@@ -1,0 +1,3 @@
+esta es la segunda historia de Cesar
+
+Esta aprendiendo a usar Git
